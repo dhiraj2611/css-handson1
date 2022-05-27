@@ -1,0 +1,38 @@
+body{
+    font-family:arial,helvetica,sans-serif;
+}
+h1{
+    color: rgb(195,22,22,0.845);
+    text-decoration:underline;
+}
+h3{
+    color: rgb(238,127,0);
+    font-family:arial,helvetica,sans-serif;
+    font-style:oblique;
+}
+li{
+    color:brown;
+}
+p{
+    color: goldenred;
+}
+.line{
+    text-decoration:line-through;
+}
+.mark{
+    background-color: rgba(245,215,0,0.645);
+}
+.li4{
+    width: 60%;
+    text-decoration: underline;
+}
+ul > li > span.break,.break{
+    word-break:break-all;
+    letter-spacing:5px;
+    /* word spacing: 15px; */
+}
+.an{
+    background-color: gold;
+    text-decoration: none;
+}
+
