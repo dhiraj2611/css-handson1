@@ -1,0 +1,138 @@
+body{
+    padding: 0px;
+    margin: 0%;
+    border: 10px groove rgb(47, 201, 47);
+    background-image: url(./14-142547_cloud-clouds-background-for-death.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.head1{
+    color: white;
+    background-color: black;
+    border: 8px solid rgb(223, 44, 38);
+    padding: 20px;
+    height: 100px;
+    width: 350px;
+    border-radius: 40px;
+    position: relative;
+    top: 20px;
+    left: 10px;
+    font-size: 28px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.head2{
+    padding: 20px;
+    color: white;
+    background-color: black;
+    border: 8px solid rgb(223, 44, 38);
+    height: 30px;
+    width: 500px;
+    border-radius: 40px;
+    position: absolute;
+    top: 40px;
+    left: 250px;
+    font-size: 28px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+.head3{
+    padding: 20px;
+    color: white;
+    background-color: black;
+    border: 8px solid rgb(223, 44, 38);
+    height: 105px;
+    width: 380px;
+    border-radius: 40px;
+    font-size: 26px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    right: 20px;
+    top: 25px;
+    text-align: center;
+}
+
+.circle{
+    padding: 30px;
+    position: relative;
+    top: 20rem;
+    left: 30px;
+    background-color: rgb(44, 151, 151);
+    height: 310px;
+    width: 310px;
+    border: 8px solid rgb(116, 108, 116);
+    border-radius: 50%;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    }
+    .circ{
+        white-space:nowrap;
+        font-size: 21px;
+    }
+    hr{
+      margin: 15px;
+    }
+ 
+.form1{
+    border: 5px dashed red;
+    background-color: white;
+    color: tomato;
+    width: 28vw;
+    height: 45vw;
+    position: absolute;
+    right: 300px;
+    top: 300px;
+    text-align: center;
+}
+p{
+    margin: 0px;
+}
+::placeholder{
+    text-align: center;
+}
+
+.menu{
+    color: white;
+    background-color: black;
+    border: 8px solid rgb(223, 44, 38);
+    padding: 20px;
+    height: 30px;
+    width: 500px;
+    border-radius: 35px;
+    position: absolute;
+    top: 980px;
+    left: 350px;
+    font-size: 28px;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+.item0{
+    margin: 50px;
+    background-color: aqua;
+    height: 260px;
+    width: 300px;
+    border: 3px solid green;
+    border-radius: 30px;
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
